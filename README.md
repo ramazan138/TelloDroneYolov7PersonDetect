@@ -9,6 +9,10 @@ Başlamak için Lütfen Okuyun !
 <details><summary> <b>Expand</b> </summary>
 
 ``` shell
+
+Önemli: Başlamadan Önce Yolov5.pt dosyasını indirip ana klasöre kopyalanamınız gerekli !!!!!!
+indirmek için: 
+
 # 1.
 detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc niz ile Wifi baglantısu kurdugunuzdan emin olun !
 .py dosyası execute  edildiği zaman Tello Drone Camerasına Baglanıp Pc ekranına görüntü gelecektir.
