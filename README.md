@@ -38,7 +38,7 @@ python detect.py
 
 <div align="center">
     <a href="./">
-        <img src="./images/photoTello/1660770154.0463047.jpg" width="59%"/>
+        <img src="./images/photoTello/1660770193.5999143.jpg" width="59%"/>
     </a>
 </div>
 
