@@ -10,8 +10,9 @@ Başlamak için Lütfen Okuyun !
 
 ``` shell
 
-Önemli: Başlamadan Önce Yolov5.pt dosyasını indirip ana klasöre kopyalanamınız gerekli !!!!!!
-indirmek için: 
+Önemli: Başlamadan Önce Yolov7.pt dosyasını indirip ana klasöre kopyalanamınız gerekli !!!!!!
+indirmek için:
+    <a href="https://colab.research.google.com/gist/AlexeyAB/b769f5795e65fdab80086f6cb7940dae/yolov7detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.
 
 # 1.
 detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc niz ile Wifi baglantısu kurdugunuzdan emin olun !
