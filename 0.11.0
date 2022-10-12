@@ -1,0 +1,20 @@
+Collecting seaborn
+  Downloading seaborn-0.11.2-py3-none-any.whl (292 kB)
+     -------------------------------------- 292.8/292.8 kB 1.8 MB/s eta 0:00:00
+Requirement already satisfied: pandas>=0.23 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from seaborn) (1.4.3)
+Requirement already satisfied: numpy>=1.15 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from seaborn) (1.23.2)
+Requirement already satisfied: matplotlib>=2.2 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from seaborn) (3.5.3)
+Collecting scipy>=1.0
+  Downloading scipy-1.9.0-cp39-cp39-win_amd64.whl (38.6 MB)
+     ---------------------------------------- 38.6/38.6 MB 1.2 MB/s eta 0:00:00
+Requirement already satisfied: kiwisolver>=1.0.1 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from matplotlib>=2.2->seaborn) (1.4.4)
+Requirement already satisfied: packaging>=20.0 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from matplotlib>=2.2->seaborn) (21.3)
+Requirement already satisfied: pillow>=6.2.0 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from matplotlib>=2.2->seaborn) (9.2.0)
+Requirement already satisfied: pyparsing>=2.2.1 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from matplotlib>=2.2->seaborn) (3.0.9)
+Requirement already satisfied: python-dateutil>=2.7 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from matplotlib>=2.2->seaborn) (2.8.2)
+Requirement already satisfied: fonttools>=4.22.0 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from matplotlib>=2.2->seaborn) (4.34.4)
+Requirement already satisfied: cycler>=0.10 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from matplotlib>=2.2->seaborn) (0.11.0)
+Requirement already satisfied: pytz>=2020.1 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from pandas>=0.23->seaborn) (2022.2.1)
+Requirement already satisfied: six>=1.5 in c:\users\ramazan\anaconda3\envs\pytorch1\lib\site-packages (from python-dateutil>=2.7->matplotlib>=2.2->seaborn) (1.16.0)
+Installing collected packages: scipy, seaborn
+Successfully installed scipy-1.9.0 seaborn-0.11.2
