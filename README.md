@@ -14,10 +14,10 @@ detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc niz ile Wifi 
 .py dosyası execute  edildiği zaman Tello Drone Camerasına Baglanıp Pc ekranına görüntü gelecektir.
 
 # 2. Drone Kalkış için;
-e tuşu na basın (TakeOff) 
+e tuşu  (TakeOff) 
 
 # 3. Drone İndirmek için
-q tuşu  na basın  (LandOff)
+q tuşu   (LandOff)
 
 ```
     
