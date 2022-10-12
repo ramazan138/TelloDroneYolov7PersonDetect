@@ -22,13 +22,25 @@ pip install seaborn thop
 # go to code folder
 cd /yolov7
 ```
+    
+    
+    ``` shell
+# create the docker container, you can change the share memory size if you have more.
+detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc'niz ile Wifi baglantısu kurdugunuzdan emin olun !
+detect.py yürütülgü zaman baglantı sağlanıp Tello Drone camerasına baglananıp Pc ekranına görüntü gelecektir
+
+# apt install required packages
+e tuşu = TakeOff(Yerden Kaldırma) 
+apt install -y zip htop screen libgl1-mesa-glx
+
+# pip install required packages
+q tuşu = LannOff (Güvenli Yere İndirme)
+
+
+```
 
 </details>
 
-### detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc'niz ile Wifi baglantısu kurdugunuzdan emin olun !
-## detect.py yürütülgü zaman baglantı sağlanıp Tello Drone camerasına baglananıp Pc ekranına görüntü gelecektir
-## e tuşu = TakeOff(Yerden Kaldırma) 
-## q tuşu = LannOff (Güvenli Yere İndirme)
 
 
 
