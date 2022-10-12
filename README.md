@@ -5,17 +5,17 @@ Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-t
 
 ## Installation
 
-Docker environment (recommended)
+Başlamak için Lütfen Okuyun !
 <details><summary> <b>Expand</b> </summary>
 
 ``` shell
-# create the docker container, you can change the share memory size if you have more.
-detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc'niz ile Wifi baglantısu kurdugunuzdan emin olun !
+# 1
+detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc niz ile Wifi baglantısu kurdugunuzdan emin olun !
 
-# apt install required packages
+# 2
 e tuşu = TakeOff(Yerden Kaldırma) 
 
-# pip install required packages
+# 3
 q tuşu = LannOff (Güvenli Yere İndirme)
 
 ```
