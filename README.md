@@ -25,6 +25,10 @@ cd /yolov7
 
 </details>
 
+### detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc'niz ile Wifi baglantısu kurdugunuzdan emin olun !
+## detect.py yürütülgü zaman baglantı sağlanıp Tello Drone camerasına baglananıp Pc ekranına görüntü gelecektir
+## e tuşu = TakeOff(Yerden Kaldırma) 
+## q tuşu = LannOff (Güvenli Yere İndirme)
 
 
 
