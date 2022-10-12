@@ -2,17 +2,19 @@
 
 Implementation of paper - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors](https://arxiv.org/abs/2207.02696)
 
-
+Download - [YoloV7](https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt)
 ## Installation
 
 Başlamak için Lütfen Okuyun !
 <details><summary> <b>Expand</b> </summary>
 
+
+    
 ``` shell
 
 Önemli: Başlamadan Önce Yolov7.pt dosyasını indirip ana klasöre kopyalanamınız gerekli !!!!!!
-indirmek için:
-    <a href="https://colab.research.google.com/gist/AlexeyAB/b769f5795e65fdab80086f6cb7940dae/yolov7detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.
+indirmek için Yukarıdan ki Linki tıklayın
+
 
 # 1.
 detect.pt dosyasını çalıştırmadan önce Tello Drone Kendi Pc niz ile Wifi baglantısu kurdugunuzdan emin olun !
